@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-15T21:33:32Z" name="softwaretestingmaterial" finished-at="2019-01-15T21:34:26Z" duration-ms="53726">
+    <groups>
+    </groups>
+    <test started-at="2019-01-15T21:33:32Z" name="testngTest" finished-at="2019-01-15T21:34:26Z" duration-ms="53726">
+      <class name="WebPackage.Test">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:WebPackage.Test@1e178745]" started-at="2019-01-15T21:33:32Z" name="openbrowser" finished-at="2019-01-15T21:34:22Z" duration-ms="49874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="testmethodone()[pri:0, instance:WebPackage.Test@1e178745]" started-at="2019-01-15T21:34:22Z" name="testmethodone" finished-at="2019-01-15T21:34:22Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethodone -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:WebPackage.Test@1e178745]" started-at="2019-01-15T21:34:22Z" name="closebrowser" finished-at="2019-01-15T21:34:26Z" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- WebPackage.Test -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
